@@ -12,7 +12,6 @@ Group project
 
 <main>
 <body>
-naomi
-<p> sweeet slice</p>
+<p> SWEET</p>
     
 testing
